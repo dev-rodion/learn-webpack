@@ -1,0 +1,19 @@
+/*!****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/test.css ***!
+  \****************************************************************/
+body {
+  color: #fff;
+  background: #000;
+}
+/*!*********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/test2.scss ***!
+  \*********************************************************************************************************/
+.btn {
+  width: 200px;
+  height: 50px;
+}
+.btn__white {
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=styles.css.map*/
